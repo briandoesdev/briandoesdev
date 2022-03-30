@@ -2,7 +2,7 @@
 ### 👀 I’m a DevSecOps Engineer working in Omaha, NE.
 
 #### CURRENT
-- 🌱 Creating a open source PowerShell module for Nexus Repositor
+- 🌱 Creating a open source PowerShell module for Nexus Repository
 - 🔐 Helping secure third party dependencies for developers
 - 💞️ Attending KernelCon 2022 in Omaha NE.
 
