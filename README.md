@@ -3,8 +3,7 @@
 
 #### CURRENT
 - 🌱 Creating a open source PowerShell module for Nexus Repository
-- 🔐 Helping secure third party dependencies for developers
-- 💞️ Attending KernelCon 2022 in Omaha NE.
+- 🔐 Developing ideas to defend against supply chain attacks from third-party packages
 
 #### ME
 - 🏢 I work for [Peraton](https://peraton.com)
