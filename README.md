@@ -4,7 +4,7 @@
 #### CURRENT
 - 🌱 Creating a open source PowerShell module for Nexus Repository
 - 🔐 Developing ideas to defend against supply chain attacks from third-party packages
-- Making Portfolio in [Svelte](https://svelte.dev) with [GraphCMS](https://graphcms.com/) backend
+- 🧑🏻‍💻 Making Portfolio in [Svelte](https://svelte.dev) with [GraphCMS](https://graphcms.com/) backend
 
 #### ME
 - 🏢 I work for [Peraton](https://peraton.com)
