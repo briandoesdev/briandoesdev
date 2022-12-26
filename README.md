@@ -1,9 +1,9 @@
 ## 👋 Hi, I’m @briandoesdev
-### 👀 I’m a DevSecOps Engineer working in Omaha, NE.
+### 👀 I’m a Security Engineer working in Omaha, NE.
 
 #### CURRENT
-- 🌱 Creating a open source PowerShell module for Nexus Repository
-- 🔐 Developing ideas to defend against supply chain attacks from third-party packages
+- 🌱 Developing a game for PC, macOS, iOS, and tvOS
+- 🔐 Trying to defend against supply chain attacks from third-party packages
 - 🧑🏻‍💻 Making Portfolio in [Svelte](https://svelte.dev) with [GraphCMS](https://graphcms.com/) backend
 
 #### ME
