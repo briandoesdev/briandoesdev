@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @briandoesdev
-### 👀 I’m a Security Engineer working in Omaha, NE.
+### 👀 I’m a CloudSecurity Engineer working in Omaha, NE.
 
 #### CURRENT
 - 🌱 Developing a game for PC, macOS, iOS, and tvOS
@@ -7,7 +7,7 @@
 - 🧑🏻‍💻 Making Portfolio in [Svelte](https://svelte.dev) with [GraphCMS](https://graphcms.com/) backend
 
 #### ME
-- 🏢 I work for [PayPal](https://paypal.com)
+- 🏢 I work**ed** for [PayPal](https://paypal.com)
 - 💻 I love programming/scripting, I use: `C#`, `PowerShell`, and `JavaScript`
 - 🏫 Really into these developer technologies: [Hasura](https://hasura.com), [Deno](https://deno.land), and [Svelte](https://svelte.dev)
 - ❣️ I also have a passion for security!
