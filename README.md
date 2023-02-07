@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @briandoesdev
-### 👀 I’m a CloudSecurity Engineer working in Omaha, NE.
+### 👀 I’m a Cloud Security Engineer working in Omaha, NE.
 
 #### CURRENT
 - 🌱 Developing a game for PC, macOS, iOS, and tvOS
