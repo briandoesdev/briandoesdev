@@ -7,7 +7,7 @@
 - 🧑🏻‍💻 Making Portfolio in [Svelte](https://svelte.dev) with [GraphCMS](https://graphcms.com/) backend
 
 #### ME
-- 🏢 I work**ed** for [PayPal](https://paypal.com)
+- 🏢 I'm a Senior Consultant with Booz Allen Hamilton
 - 💻 I love programming/scripting, I use: `C#`, `PowerShell`, and `JavaScript`
 - 🏫 Really into these developer technologies: [Hasura](https://hasura.com), [Deno](https://deno.land), and [Svelte](https://svelte.dev)
 - ❣️ I also have a passion for security!
