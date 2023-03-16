@@ -2,7 +2,7 @@
 ### 👀 I’m a Cloud Security Engineer working in Omaha, NE.
 
 #### CURRENT
-- 🌱 Developing a game for PC, macOS, iOS, and tvOS
+- 🌱 Working on some personal projects
 - 🔐 Trying to defend against supply chain attacks from third-party packages
 - 🧑🏻‍💻 Making Portfolio in [Svelte](https://svelte.dev) with [GraphCMS](https://graphcms.com/) backend
 
